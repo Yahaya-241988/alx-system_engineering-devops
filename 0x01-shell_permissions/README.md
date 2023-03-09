@@ -1,1 +1,1 @@
-mirror command
+Adding x command to all subdirectory
